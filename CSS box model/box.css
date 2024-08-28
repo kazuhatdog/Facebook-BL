@@ -1,0 +1,17 @@
+p{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid tomato ;
+    background: powderblue;
+}
+
+button{
+    background-color: tomato;
+}
+button:hover{
+    background-color: gold;
+}
+button:disabled{
+    opacity: 0.1;
+    
+}
